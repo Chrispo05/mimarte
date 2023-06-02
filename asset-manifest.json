@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mimarte/static/css/main.306ccf67.css",
-    "main.js": "/mimarte/static/js/main.b8991985.js",
+    "main.js": "/mimarte/static/js/main.039157a8.js",
     "static/js/787.457a4398.chunk.js": "/mimarte/static/js/787.457a4398.chunk.js",
     "static/media/footerBg.jpg": "/mimarte/static/media/footerBg.3043a1f428b823bdc8b4.jpg",
     "static/media/beauty.jpg": "/mimarte/static/media/beauty.14ab6c66464e8ecbb778.jpg",
@@ -14,11 +14,11 @@
     "static/media/slick.woff": "/mimarte/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/mimarte/index.html",
     "main.306ccf67.css.map": "/mimarte/static/css/main.306ccf67.css.map",
-    "main.b8991985.js.map": "/mimarte/static/js/main.b8991985.js.map",
+    "main.039157a8.js.map": "/mimarte/static/js/main.039157a8.js.map",
     "787.457a4398.chunk.js.map": "/mimarte/static/js/787.457a4398.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.306ccf67.css",
-    "static/js/main.b8991985.js"
+    "static/js/main.039157a8.js"
   ]
 }
